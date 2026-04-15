@@ -1,0 +1,43 @@
+Good day everyone,
+
+Welcome to MCM 202: Editing & Graphics of Communication.
+
+You have all been added to the Telegram group. This will serve as our central communication hub for announcements, updates, and coordination throughout the course. Ensure notifications are enabled and check the group regularly.
+
+### Lecture Delivery Structure
+
+Lectures will be delivered in a structured format combining:
+
+* Live or scheduled sessions where applicable
+* Guided lecture materials and explanations
+* Practical engagement during sessions
+
+Each lecture is not passive. You are expected to follow actively, think critically, and participate where required.
+
+### Attendance and Participation Protocol
+
+Attendance in this course is not based on presence alone. It is **validated through timed participation activities** during each lecture. For Lecture 1, you are required to complete all three stages below:
+
+**1. Attendance Registration (Compulsory)**
+You will be provided access via a QR code during the lecture. Complete it to be marked present.
+
+**2. Q-Poll (Live Participation Check)**
+Submit at least one question, comment, remark, or reflection during the lecture using the QR code provided. This serves as an engagement and attendance validation activity.
+
+**3. Post-Lecture Confirmation**
+A separate QR code will be provided at the end of the lecture. Complete it immediately after the session.
+
+### Important Guidelines
+
+* All submissions must be completed **within the lecture timeframe**.
+* Attendance is verified using **timestamp logic**.
+* Do not attempt to manipulate the process by skipping, rewinding, or rushing through the lecture. This will invalidate your record.
+* Ensure all submitted details are accurate.
+
+This structure is designed to ensure accountability, engagement, and a high standard of learning.
+
+Further instructions for Lecture 1 will follow shortly.
+
+Regards,
+Course Lecturer
+MCM 202: Editing & Graphics of Communication

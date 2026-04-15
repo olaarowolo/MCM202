@@ -1,0 +1,13 @@
+# LaTeX build artifacts
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# Local build folder
+build/
+lectures/slides/MCM 202 Lesson 2 - The Newsroom Workflow.pptx
+lectures/slides/MCM 202 Lesson 3  - The Newsroom Workflow, Sub-Editors, and Editing Symbols.pptx
