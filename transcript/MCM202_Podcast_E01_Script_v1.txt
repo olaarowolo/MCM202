@@ -1,0 +1,434 @@
+MCM 202 Audio Series | Episode 1
+Title: What Is Editing and Why Does It Matter?
+Source: Lecture 1 + LIVE SESSION - Foundations of Editing and Graphics
+Target duration: 20-25 minutes
+Date drafted: 15 April 2026
+
+-----------------------------------------------------------------------
+PRODUCTION NOTES
+-----------------------------------------------------------------------
+Tone:       Conversational, direct, with moments of reflective gravity.
+Delivery:   Speak clearly at a measured pace. Let pauses land.
+Music cue:  [INTRO MUSIC FADES IN] just before the cold open.
+            [MUSIC FADES UNDER] when speaking begins.
+            [MUSIC OUT] by the first full sentence of the cold open.
+            [OUTRO MUSIC] after the action close.
+
+Notation key:
+  [PAUSE]          = deliberate 1-2 second pause
+  [SLOW DOWN]      = reduce pace, let the idea settle
+  [ENERGETIC]      = lift energy, pick up momentum
+  // italics //    = emphasis word or phrase
+  [beat]           = very short micro-pause, less than 1 second
+-----------------------------------------------------------------------
+
+
+[PRE-OPEN HOOK - 35 seconds]
+[NO MUSIC YET. DRY. CLOSE MIC.]
+
+In a newsroom in Lagos in 1977, [PAUSE] a headline went to print with a single
+word wrong. [PAUSE] One word. [SLOW DOWN] Not the facts. Not the story. Just
+one word in the wrong place. [beat] By morning, the paper had already hit the
+streets. By afternoon, the editor had already been called in. [PAUSE] One word.
+That is the weight this profession carries. [PAUSE] And in this episode, you are
+going to understand exactly why — and exactly what you are stepping into when
+you call yourself an editor.
+
+[INTRO MUSIC - 10 seconds, then fade under]
+
+
+-----------------------------------------------------------------------
+SEGMENT ZERO: COLD OPEN
+[30-45 seconds]
+-----------------------------------------------------------------------
+
+Good day, and welcome to Editing and Graphics of Communication in Practice —
+the MCM 202 Audio Series. I'm Ola, and in this series, we are going to move
+through the core ideas of this course in a way that is direct, practical, and
+built around the kind of thinking that will serve you in your exams, in your
+career, and in every piece of content you ever put your name on. [PAUSE] This
+is Episode 1. Let's begin.
+
+[MUSIC OUT]
+
+
+-----------------------------------------------------------------------
+SEGMENT ONE: LESSON PROMISE
+[20 seconds]
+-----------------------------------------------------------------------
+
+By the end of this episode, [beat] you will be able to define editing and
+graphics in a communication context. You will be able to explain the scope of
+editing across different media. And you will be able to trace how editing
+evolved — globally, and specifically in Nigeria — from the earliest printing
+workshops all the way to the digital newsroom of today.
+
+
+-----------------------------------------------------------------------
+SEGMENT TWO: CORE TEACHING — PART 1
+"What Editing Actually Is" [4-5 minutes]
+-----------------------------------------------------------------------
+
+All right. Let's start with the most basic and most important question in this
+entire course. [PAUSE] What [beat] is editing?
+
+Think about it before I give you the answer. What does it mean to edit? Because
+most people, when they hear that word, they picture someone sitting with a red
+pen, circling spelling mistakes. And yes — that is part of it. But it is a very
+small part. [PAUSE]
+
+Here is the full picture. [SLOW DOWN]
+
+Editing is the process of reviewing, revising, and // refining // content
+before it is published. [PAUSE] Three actions. Reviewing — taking a thorough
+look. Revising — making changes. Refining — improving it so that the meaning
+the sender intended is the meaning the audience // receives //. [PAUSE]
+
+Now here is what I want you to hold onto from the very beginning. [SLOW DOWN]
+Editing is not just about fixing errors. It is about ensuring that the // right 
+// meaning reaches the // right // audience in the // right // form. [PAUSE]
+
+That means when you edit, you are doing several things at once.
+
+You are correcting. Grammatical errors, spelling errors, punctuation errors,
+syntax — which means structure. You may know how to spell a word correctly and
+still place it in the wrong context. Both problems are yours to fix.
+
+You are clarifying. Making sure the message is not just technically correct but
+actually clear. That readers do not have to work to understand you.
+
+You are verifying. Confirming that the facts are accurate, that sources are
+reliable, that the content does not misinform. This is not optional. This is
+professional responsibility.
+
+You are standardizing. Ensuring consistency of style and format — what we call
+// house style //. Every serious media organization has one. A standard. And
+when you edit to that standard, you are doing something bigger than fixing
+typos. You are building a brand. [PAUSE]
+
+And you are shaping meaning. [SLOW DOWN] This is the one most people miss. The
+choices you make as an editor — the words you keep, the words you cut, the
+headline you write, the order you place things in — all of those choices
+influence how your audience // thinks // about the content. We will come back
+to this fully in Segment Three, and it is one of the most important ideas in
+this entire course.
+
+[ENERGETIC]
+Now — graphics. This course is called Editing and Graphics of Communication,
+so let us deal with both.
+
+What is graphics? [PAUSE] Graphics refers to any visual element used to
+communicate information. Images, illustrations, charts, diagrams, layouts,
+photographs. [PAUSE] In journalism, in publishing, in digital media — graphics
+are not decoration. They are communication tools.
+
+Think about what they do. They enhance understanding beyond text alone. A chart
+that summarizes complex data does in two seconds what a paragraph takes a
+minute to read. They attract attention. They simplify what is complicated. And
+they support storytelling — a well-chosen photograph can carry emotion that
+words alone cannot deliver. [PAUSE]
+
+Graphics and editing do not sit in separate boxes. They work together. When
+you select an image for a news story, you are making an editorial decision. When
+you choose a layout, you are shaping how a reader moves through information.
+This is why the two belong in the same course.
+
+-----------------------------------------------------------------------
+[EDITOR'S EYE - recurring segment]
+[~60 seconds]
+-----------------------------------------------------------------------
+
+Let's pause here for our first // Editor's Eye // — a practical editing
+dilemma from the real world.
+
+A reporter submits a story about a government policy on education. The story is
+factually correct. But the headline they have written reads: "Government
+launches education plan." [PAUSE] Accurate. Dry. And almost completely
+uninteresting. [PAUSE] A different editor rewrites it as: "New education plan
+promises digital classrooms — but where are the computers?" [PAUSE]
+
+Same facts. Completely different impact. And both are defensible editorial
+choices depending on the platform, the audience, and the editorial line of the
+publication. [PAUSE]
+
+Your job as an editor is not just to clean the text. It is to make a decision.
+Keep that in mind throughout this episode.
+
+
+-----------------------------------------------------------------------
+SEGMENT THREE: CORE TEACHING — PART 2
+"The History of Editing: From Print Shops to Digital News" [5-6 minutes]
+-----------------------------------------------------------------------
+
+Now I want to take you somewhere. [SLOW DOWN]
+
+Imagine a printing workshop in Europe. Around the year 1500. The room is dim.
+The air is thick with ink and metal. A compositor — that is the person who sets
+the type — is standing over a large flat case filled with individual metal
+letters. To print the word // love //, they must pick up the metal block for L,
+then for O, then V, then E. Arrange them together, upside down and in reverse,
+so that when they are pressed against the paper the impression reads correctly.
+[PAUSE]
+
+There is no delete key. [beat] No undo. No backspace. [PAUSE] Every word must
+be constructed by hand, letter by letter. If a single letter is wrong or
+misaligned — [beat] you reprint. At great cost. [PAUSE]
+
+This is where editing begins. Not as a sophisticated profession. As a
+// necessity //. [SLOW DOWN] Because in that world, errors are expensive.
+Precision is survival. And proofreading at that stage was not about style or
+elegance. It was about making sure meaning did not collapse before it left the
+press.
+
+The first principle of editing was born there: // accuracy matters, and errors
+have consequences //. [PAUSE]
+
+[ENERGETIC] Now move forward. 18th century. 19th century. Newspapers begin to
+emerge. Information is no longer static — it is timely, political, influential.
+And someone has to take responsibility for what gets published. This is when the
+editor appears as a // role //. Not just a typesetter. Not just someone
+correcting errors. But someone making decisions. What is newsworthy? What
+should be published? What should be held back? [PAUSE]
+
+The editor becomes a // gatekeeper //. [SLOW DOWN] And that is a concept we
+will return to in a moment.
+
+-----------------------------------------------------------------------
+[NEWSROOM SNAPSHOT — Nigerian context]
+[~90 seconds]
+-----------------------------------------------------------------------
+
+Now let's bring it home. [PAUSE]
+
+// Newsroom Snapshot //.
+
+The year is 1859. The printing press has arrived in what is now southwestern
+Nigeria. The missionaries are using it — not just to print but to // influence //.
+The first Yoruba-language newspaper, Iwe Irohin fun Awon Yoruba ati Egba, begins
+circulation. It is the newspaper for the Egba and Yoruba people. [PAUSE]
+
+At this stage, editing serves one purpose: preservation of the missionary
+message. The content is controlled. Structured. Aligned with an agenda. [PAUSE]
+
+But something begins to shift. As the colonial period progresses, Nigerian
+voices enter the press. Newspapers become tools of resistance. Editors stop
+being technicians and start becoming // activists //. Political actors.
+Intellectuals.
+
+Think about journalists like Nnamdi Azikiwe, Obafemi Awolowo — using the press
+to challenge colonial narratives, frame Nigerian reality on their own terms,
+speak to a national consciousness that was waking up. [PAUSE] In that era,
+editing was // power //. The way a story was framed shaped how people
+understood who they were and what they were fighting for.
+
+Then came the post-independence expansion — more newspapers, more media houses,
+formal editorial structures, roles like sub-editors, house style manuals.
+Editing as an institution.
+
+Then the military era. Censorship. Certain stories cannot be published. Certain
+words cannot be used. Editors navigate risk carefully — a misplaced headline
+could mean imprisonment. [SLOW DOWN] This period teaches a hard lesson: editing
+is not always free. It is shaped by political power. [PAUSE]
+
+And today — the digital era. Real-time publishing. Social media. Anyone with a
+smartphone can put content into the world. Which creates an entirely new problem.
+Speed over accuracy. Viral content over verified information. Algorithm pressure
+over editorial judgment. [PAUSE] The editor's role has never been more necessary.
+And never more difficult.
+
+[SLOW DOWN]
+Whether you take it globally or local to Nigeria — editing has always evolved
+around one central question: // who controls information, and how is it
+presented? // [PAUSE] That question is yours to carry forward.
+
+
+-----------------------------------------------------------------------
+SEGMENT FOUR: CORE TEACHING — PART 3
+"Gatekeeping, Meaning Construction, and Why You Are Not Neutral" [4-5 minutes]
+-----------------------------------------------------------------------
+
+I want to close the core teaching with two linked concepts that are central to
+this course. [PAUSE]
+
+The first is // gatekeeping //.
+
+Editors are gatekeepers. They decide what content reaches the public. They
+decide what gets rejected. They determine which voices are amplified and which
+are not. [PAUSE] The gatekeeper theory of media, which you will encounter in
+your communication theory studies, was not built around technology or platforms.
+It was built around // people //. Around exactly this role. [PAUSE]
+
+What goes through the gate shapes what the public knows. What they know shapes
+what they believe. What they believe shapes how they act. [PAUSE] This is why
+editing is not a minor technical role. It is a position of influence. [beat]
+Take that seriously.
+
+The second concept is // meaning construction //. [SLOW DOWN]
+
+And this one I need you to understand deeply. [PAUSE]
+
+Editing is not neutral. [beat] I will say that again. Editing is not neutral.
+[PAUSE]
+
+The choice of words, the structure of a sentence, the image selected, the
+headline written — these are not passive decisions. They actively shape how a
+reader // interprets // the content. [PAUSE]
+
+Here is a concrete example. Two headlines. Same story. Same facts.
+
+Version one: "Federal Government approves new education policy to improve
+digital learning in public schools."
+
+Version two: "Federal Government rolls out new education policy despite lack of
+computers in schools."
+
+[PAUSE] Same story. Same underlying facts. But version one presents the
+policy as progress — institutional, forward-looking. Version two signals a gap,
+introduces doubt, invites criticism. [PAUSE]
+
+Ask yourself: which headline would attract more clicks? Which one builds more
+trust? Which would a government spokesperson prefer? Which would an opposition
+voice prefer? [PAUSE]
+
+Both headlines are defensible. But they are not the same. And the editor who
+wrote each one made a choice — consciously or not — about what to emphasize
+and what to downplay. [PAUSE]
+
+[SLOW DOWN] This is what we mean when we say editing shapes meaning. Not that
+editors lie. But that every editorial decision is a frame. And the frame
+determines what the audience // sees first //, and what they take away. [PAUSE]
+
+This connects to framing theory, agenda-setting, and priming — concepts you
+will explore deeper in your media theory studies. But the foundation starts
+here, in the editing process. [PAUSE]
+
+And it is why being an editor carries real ethical responsibility.
+
+-----------------------------------------------------------------------
+[SYMBOL CHECK — recurring segment]
+[~45 seconds]
+-----------------------------------------------------------------------
+
+Quick // Symbol Check // before we move to your activity.
+
+The editing symbol # — the hash or pound mark — when used in manuscript
+editing means // insert space //. If a typesetter or editor marks # between
+two words, they are signalling that a space needs to be added there. [PAUSE]
+
+Simple. But important. Because in the days of physical typesetting, a missing
+space was not a minor error — it collapsed two words into one and changed the
+meaning. Even now in print editing workflows, this symbol remains in use. [PAUSE]
+
+We will go deeper into editing symbols in Episode 5 of this series. But from
+today, start noticing space — literal and conceptual — as an editorial
+decision.
+
+
+-----------------------------------------------------------------------
+MICRO-ACTIVITY
+[~90 seconds]
+-----------------------------------------------------------------------
+
+Pause here. [PAUSE] I mean that — pause this episode now and take two minutes
+before you continue.
+
+Here is your task.
+
+Find any news headline — from a Nigerian newspaper, a news website, or a social
+media post. [PAUSE] Read it once. Then ask yourself three questions.
+
+One: what does this headline emphasize?
+Two: what does it leave out or downplay?
+Three: who does this framing serve?
+
+[PAUSE] Do not overthink it. You are not writing an essay. You are // looking //.
+Training your editorial eye to see what is being done with language before you
+accept the frame you are being offered. [PAUSE]
+
+That is the Editor's Eye in practice. And it is a habit that will serve you
+in every lesson that follows. [PAUSE]
+
+Done? Let's continue.
+
+
+-----------------------------------------------------------------------
+CHECKPOINT QUESTION
+[~60 seconds]
+-----------------------------------------------------------------------
+
+Here is your checkpoint question for this episode. [PAUSE]
+
+During Nigeria's post-independence era, [beat] editors were best described as:
+
+A — neutral technical assistants
+B — political actors and advocates
+C — graphic designers for newspapers
+D — data analysts for media organizations
+
+[PAUSE] Think about what you heard in Segment Three. About Azikiwe, about
+Awolowo, about the press as a tool of resistance and national consciousness.
+[PAUSE]
+
+The answer is B — political actors and advocates. [PAUSE] Because in that
+period, editing was inseparable from the project of defining a new nation. The
+editor was not passive. The editor was choosing what story Nigeria told about
+itself. [PAUSE]
+
+If you got that — well done. If you did not — go back and re-listen to the
+Nigerian history section. That material is examinable.
+
+
+-----------------------------------------------------------------------
+RECAP
+[~60 seconds]
+-----------------------------------------------------------------------
+
+Three things to take from this episode. [PAUSE]
+
+[SLOW DOWN] One: Editing is the process of reviewing, revising, and refining
+content before publication — to ensure accuracy, clarity, verification, and
+standard. It is not just error correction. It is a // communication act //.
+
+Two: Editing has evolved — from manual typesetting in the 1500s, through the
+birth of newspapers in the 18th and 19th centuries, through Nigeria's colonial,
+nationalist, military, and digital eras — always in response to the same
+question: who controls information and how is it presented?
+
+Three: Editors are gatekeepers, and editing is not neutral. Every editorial
+decision shapes meaning. The frame you choose determines what your audience
+sees and believes. [PAUSE] That is a responsibility. Own it.
+
+
+-----------------------------------------------------------------------
+ACTION CLOSE
+[~30 seconds]
+-----------------------------------------------------------------------
+
+Before you go. [PAUSE] Your assignment for this episode: find a recent news
+article. Identify one strength and one weakness in its editing. Write a
+one-paragraph analysis — no more, no less. You are training your judgment, not
+writing a literature review. [PAUSE]
+
+Episode 2 takes you into the newsroom. We are going to look at how news
+becomes news — the workflow, the roles, the moment a story enters the system
+and the decisions made before it reaches you. [PAUSE]
+
+I'll see you there.
+
+[OUTRO MUSIC - fade in and hold]
+
+-----------------------------------------------------------------------
+END OF EPISODE 1 SCRIPT
+-----------------------------------------------------------------------
+
+EPISODE METADATA
+Series:         Editing and Graphics of Communication in Practice | MCM 202
+Episode:        01
+Script version: v1
+Source files:   Introduction to Editing and Graphics in Journalism - MCM 202 Lecture 1.txt
+                LIVE SESSION - Foundations of Editing and Graphics.txt
+Estimated runtime at 135 wpm speaking pace: ~22 minutes
+File naming convention:
+  Script:   MCM202_Podcast_E01_Script_v1.txt
+  Record:   MCM202_Podcast_E01_Record_v1.wav
+  Final:    MCM202_Podcast_E01_Final.mp3
