@@ -1,0 +1,87 @@
+% transcript_template.tex - Reusable LaTeX template for transcripts
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage[margin=1in]{geometry}
+\usepackage[colorlinks=true, linkcolor=blue, urlcolor=blue]{hyperref}
+\usepackage{etoolbox}
+\usepackage{fancyvrb}
+\usepackage[tagged]{accessibility} % Accessibility for screen readers
+\usepackage{lmodern} % Improved font readability
+\usepackage{qrcode} % For QR code generation
+
+% === Custom Transcript Macros ===
+% Use \providecommand so individual transcript files can set these before inputting this template.
+\providecommand{\LessonTitle}{}
+\providecommand{\LessonAuthor}{}
+\providecommand{\LessonDate}{}
+\providecommand{\LessonVideoURL}{}
+\providecommand{\CheckInURL}{}
+\providecommand{\CheckOutURL}{}
+\providecommand{\TranscriptFile}{}
+
+\newcommand{\TranscriptOptionalLink}[2]{%
+  \ifdefempty{#1}{\textit{Not provided}}{\href{#1}{#2}}%
+}
+
+\newcommand{\TranscriptOptionalQRCode}[1]{%
+  \ifdefempty{#1}{%
+    \fbox{\parbox[c][3.2cm][c]{3.2cm}{\centering\footnotesize QR unavailable}}
+  }{%
+    \qrcode[height=3.2cm]{#1}%
+  }%
+}
+
+\newcommand{\TranscriptFormBox}[2]{%
+  \noindent\fbox{%
+    \parbox{0.97\linewidth}{%
+      \textbf{#1}~\ifdefempty{#2}{\textit{Not provided}}{\href{#2}{#1 (click or scan; screen reader accessible)}}%
+    }%
+  }%
+}
+
+\newcommand{\TranscriptScreenReaderVideoText}{%
+  \ifdefempty{\LessonVideoURL}{not provided}{available through the Course Video link below}%
+}
+
+\title{\LessonTitle}
+\author{\LessonAuthor}
+\date{\LessonDate}
+
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+\vspace{1em}
+\TranscriptFormBox{Check-in Form:}{\CheckInURL}
+
+\vspace{1em}
+
+\noindent\copyright~\LessonDate~\LessonAuthor. All rights reserved.
+
+\section*{Lesson Video}
+\addcontentsline{toc}{section}{Lesson Video}
+\vspace{0.5em}
+\noindent
+\begin{minipage}[t]{0.30\textwidth}
+  \vspace{0pt}
+  \raggedright
+  \TranscriptOptionalQRCode{\LessonVideoURL}
+\end{minipage}\hfill
+\begin{minipage}[t]{0.66\textwidth}
+  \vspace{0pt}
+  \raggedright
+  \textit{Scan the QR code at left to access the course video.}\\[0.5ex]
+  \small\textit{(Screen reader: YouTube video link is \TranscriptScreenReaderVideoText)}\\[1ex]
+  \textbf{Video:}~\TranscriptOptionalLink{\LessonVideoURL}{Course Video (YouTube, opens in new tab; accessible for screen readers)}
+\end{minipage}
+
+\section*{Transcript}
+\addcontentsline{toc}{section}{Transcript}
+\input{\TranscriptFile}
+
+\vspace{1em}
+\TranscriptFormBox{Check-out Form:}{\CheckOutURL}
+
+\end{document}
